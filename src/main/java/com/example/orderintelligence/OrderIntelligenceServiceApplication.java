@@ -8,6 +8,7 @@ public class OrderIntelligenceServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrderIntelligenceServiceApplication.class, args);
-	}
+		System.out.println("Order Intelligence Service is live!");
 
+	}
 }
